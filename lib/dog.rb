@@ -3,8 +3,5 @@ class Dog
     @name = name
     @breed = breed
   end
-    fido.breed = "Mutt"
-  end
-   
     
 end
