@@ -5,4 +5,5 @@ class Dog
   end
     def breed
     puts "Mutt"
+  end
 end
